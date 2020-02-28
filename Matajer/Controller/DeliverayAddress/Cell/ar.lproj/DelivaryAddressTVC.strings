@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "حذف"; ObjectID = "9pZ-jU-8J5"; */
+"9pZ-jU-8J5.normalTitle" = "حذف";
+
+/* Class = "UILabel"; text = "رقم الجوال :"; ObjectID = "CEp-sf-CCf"; */
+"CEp-sf-CCf.text" = "رقم الجوال :";
+
+/* Class = "UIButton"; normalTitle = "تعديل"; ObjectID = "Sie-ce-vUB"; */
+"Sie-ce-vUB.normalTitle" = "تعديل";
+
+/* Class = "UILabel"; text = "نانمن, 36221 , الأحساء , المنطقة الشرقية, قصب"; ObjectID = "f8Q-4v-kYE"; */
+"f8Q-4v-kYE.text" = "نانمن, 36221 , الأحساء , المنطقة الشرقية, قصب";
+
+/* Class = "UILabel"; text = "مكتب العمل"; ObjectID = "gdm-E3-ffV"; */
+"gdm-E3-ffV.text" = "مكتب العمل";
+
+/* Class = "UILabel"; text = "+966 521001521"; ObjectID = "jP4-zz-uO3"; */
+"jP4-zz-uO3.text" = "+966 521001521";
+
+/* Class = "UILabel"; text = "العنوان :"; ObjectID = "sc2-yc-jx5"; */
+"sc2-yc-jx5.text" = "العنوان :";

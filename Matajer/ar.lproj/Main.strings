@@ -1,0 +1,359 @@
+
+/* Class = "UILabel"; text = "Pravicy & policies"; ObjectID = "0ZA-SM-ImB"; */
+"0ZA-SM-ImB.text" = "الشروط و الاحكام";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "1zk-mc-yXn"; */
+"1zk-mc-yXn.text" = "رقم الجوال";
+
+/* Class = "UIButton"; normalTitle = "order"; ObjectID = "31b-Fd-2lR"; */
+"31b-Fd-2lR.normalTitle" = "الطلبات";
+
+/* Class = "UILabel"; text = "15,000 RAS"; ObjectID = "3gx-mE-hf7"; */
+"3gx-mE-hf7.text" = "15,000 ر.س";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "49n-tx-8CT"; */
+"49n-tx-8CT.text" = "البريد الالكتروني";
+
+/* Class = "UILabel"; text = "password"; ObjectID = "4ha-h1-jkE"; */
+"4ha-h1-jkE.text" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "15,000 RAS"; ObjectID = "4yC-r3-RG9"; */
+"4yC-r3-RG9.text" = "15,000 ر.س";
+
+/* Class = "UILabel"; text = "Rate app"; ObjectID = "5mN-8W-Cx2"; */
+"5mN-8W-Cx2.text" = "تقييم التطبيق";
+
+/* Class = "UITextField"; placeholder = "last name"; ObjectID = "640-hG-DgG"; */
+"640-hG-DgG.placeholder" = "الاسم الأخيــر";
+
+
+"RDJ-6S-aP9.placeholder" = "اضف كود الخصم هنا";
+
+/* Class = "UILabel"; text = "Welcome to smart safty"; ObjectID = "6mH-vX-jmu"; */
+//"6mH-vX-jmu.text" = "هلا فيك ";
+
+/* Class = "UILabel"; text = "name@domain.com"; ObjectID = "7pq-7s-qD7"; */
+"7pq-7s-qD7.text" = "name@domain.com";
+
+/* Class = "UILabel"; text = "Cobon"; ObjectID = "9hM-wp-WT2"; */
+"9hM-wp-WT2.text" = "كوبون الخصم";
+
+/* Class = "UIButton"; normalTitle = "check"; ObjectID = "A1N-s1-fV9"; */
+"A1N-s1-fV9.normalTitle" = "تحقق";
+
+/* Class = "UILabel"; text = "Change Language"; ObjectID = "AG1-dZ-X0g"; */
+"AG1-dZ-X0g.text" = "اللغـة";
+
+/* Class = "UILabel"; text = "Contact us"; ObjectID = "B8P-zI-Qhx"; */
+"B8P-zI-Qhx.text" = "اتصـل بنـا";
+
+/* Class = "UILabel"; text = "Rate app"; ObjectID = "BYS-Ir-FyG"; */
+"BYS-Ir-FyG.text" = "تقييـم التطبيق";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "BeS-v7-sUn"; */
+"BeS-v7-sUn.headerTitle" = "  ";
+
+/* Class = "UILabel"; text = "enter your email, we will send you a message having link for retriving account "; ObjectID = "DC8-xZ-a5c"; */
+"DC8-xZ-a5c.text" = "أدخل البريد الالكتروني الخاص بك , و سنقوم بارسال\nرابط لإعادة تعيين كلمة المرور الخاصة بك";
+
+/* Class = "UITextField"; placeholder = "what do you searching for ?"; ObjectID = "DCI-BC-jxd"; */
+"DCI-BC-jxd.placeholder" = "ما الذي تبحث عنه ؟";
+
+/* Class = "UITextField"; placeholder = "enter your first name"; ObjectID = "DhX-HV-4ZQ"; */
+"DhX-HV-4ZQ.placeholder" = "أدخل الاسم هنا";
+
+/* Class = "UIButton"; normalTitle = "+871 87 998 88 09"; ObjectID = "EH0-Rp-kqV"; */
+"EH0-Rp-kqV.normalTitle" = "+871 87 998 88 09";
+
+/* Class = "UIBarButtonItem"; title = "My Order"; ObjectID = "EoE-Ml-gRW"; */
+"EoE-Ml-gRW.title" = "طلباتي";
+
+/* Class = "UILabel"; text = "15.5.1992"; ObjectID = "GBH-eN-jUV"; */
+"GBH-eN-jUV.text" = "15.5.1992";
+
+/* Class = "UIButton"; normalTitle = "complete your order"; ObjectID = "Gcm-E8-cyn"; */
+"Gcm-E8-cyn.normalTitle" = "إتمام الطلب ";
+
+/* Class = "UITabBarItem"; title = "Category"; ObjectID = "H2n-V9-iQV"; */
+"H2n-V9-iQV.title" = "التصنيفات";
+
+/* Class = "UITextField"; placeholder = "5xxxxxxx"; ObjectID = "HgG-cQ-TtD"; */
+"HgG-cQ-TtD.placeholder" = "5xxxxxxx";
+
+/* Class = "UILabel"; text = "Total :"; ObjectID = "Iip-KD-3em"; */
+"Iip-KD-3em.text" = "الإجمالي :";
+
+/* Class = "UILabel"; text = "whats up"; ObjectID = "JDr-QJ-Rda"; */
+"JDr-QJ-Rda.text" = "توصل معنا عبر الواتس اب";
+
+/* Class = "UITextField"; placeholder = "Enter your password"; ObjectID = "Jqq-Vw-MpD"; */
+"Jqq-Vw-MpD.placeholder" = "أدخل كلمة المرور هنا";
+
+/* Class = "UIBarButtonItem"; title = "My"; ObjectID = "K3u-Lh-aBI"; */
+"K3u-Lh-aBI.title" = "My";
+
+/* Class = "UITextField"; placeholder = "Enter your password"; ObjectID = "Kr9-yi-zZb"; */
+"Kr9-yi-zZb.placeholder" = "أدخل كلمة المرور هنا";
+
+/* Class = "UITableViewSection"; footerTitle = " "; ObjectID = "LAE-a9-FN7"; */
+"LAE-a9-FN7.footerTitle" = " ";
+
+/* Class = "UITableViewSection"; headerTitle = " MyAccount"; ObjectID = "LAE-a9-FN7"; */
+"LAE-a9-FN7.headerTitle" = " حسـابي";
+
+/* Class = "UITableViewSection"; footerTitle = " "; ObjectID = "Ls8-yO-5de"; */
+"Ls8-yO-5de.footerTitle" = " ";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "Ls8-yO-5de"; */
+"Ls8-yO-5de.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "LvH-Cu-mTD"; */
+"LvH-Cu-mTD.text" = "الاسم";
+
+/* Class = "UITabBarItem"; title = "Favorate"; ObjectID = "MLh-PP-8R5"; */
+"MLh-PP-8R5.title" = "المفضلة";
+
+/* Class = "UIButton"; normalTitle = "x"; ObjectID = "Meb-m6-hhU"; */
+"Meb-m6-hhU.normalTitle" = "x";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "Mjb-76-oOi"; */
+"Mjb-76-oOi.text" = "تسجيل الخروج";
+
+/* Class = "UILabel"; text = "filter"; ObjectID = "NRg-sk-jxf"; */
+"NRg-sk-jxf.text" = "تصنيف حسب";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "POH-ao-2Hv"; */
+"POH-ao-2Hv.text" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "15,000 RAS"; ObjectID = "QFc-Vf-SJk"; */
+"QFc-Vf-SJk.text" = "15,000 ر.س";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "QPG-xA-iJr"; */
+"QPG-xA-iJr.title" = "الحســاب";
+
+/* Class = "UILabel"; text = "v 1.0.0.2"; ObjectID = "Qca-Zw-M22"; */
+"Qca-Zw-M22.text" = "v 1.0.0.2";
+
+/* Class = "UITableViewSection"; headerTitle = "Contact us "; ObjectID = "TD9-m5-Os8"; */
+"TD9-m5-Os8.headerTitle" = "تواصل معنا";
+
+/* Class = "UILabel"; text = "Send a message"; ObjectID = "TGZ-Bd-EW0"; */
+"TGZ-Bd-EW0.text" = "أرسل رسالة";
+
+/* Class = "UILabel"; text = "Final total tax incl"; ObjectID = "TIM-Ux-JlO"; */
+"TIM-Ux-JlO.text" = "الإجمالي النهائي شامل الضريبة";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "UXQ-yR-sXq"; */
+"UXQ-yR-sXq.text" = "الاسم الأخيــر";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "UrH-lQ-Csi"; */
+"UrH-lQ-Csi.text" = "البريد الالكتروني";
+
+/* Class = "UITextField"; placeholder = "email@domain.com"; ObjectID = "Wlf-Zw-S7v"; */
+"Wlf-Zw-S7v.placeholder" = "email@domain.com";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "Woz-Yu-anJ"; */
+"Woz-Yu-anJ.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "Aprove transfare - bank account"; ObjectID = "Wst-kl-IYn"; */
+"Wst-kl-IYn.text" = "الحسابات البنكية";
+
+/* Class = "UILabel"; text = " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.  \nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."; ObjectID = "Xa1-tM-8Pz"; */
+"Xa1-tM-8Pz.text" = "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.\n\nهذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.\n\nهذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.\n\nهذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.";
+
+/* Class = "UIButton"; normalTitle = "x"; ObjectID = "XyV-6m-FlY"; */
+"XyV-6m-FlY.normalTitle" = "x";
+
+/* Class = "UILabel"; text = "1550 RAS"; ObjectID = "YbU-mb-S2p"; */
+"YbU-mb-S2p.text" = "1550 ر.س";
+
+/* Class = "UILabel"; text = "jawi"; ObjectID = "ZEU-Hk-vb1"; */
+"ZEU-Hk-vb1.text" = "jawi";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "ZYR-70-gVa"; */
+"ZYR-70-gVa.text" = "البريد الإلكتروني";
+
+/* Class = "UILabel"; text = "Order details"; ObjectID = "aK1-5X-i59"; */
+"aK1-5X-i59.text" = "تفاصيل الطلب";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "aSP-Ei-y0G"; */
+"aSP-Ei-y0G.headerTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "info@smartsafety.com"; ObjectID = "aiD-Xt-SJt"; */
+"aiD-Xt-SJt.normalTitle" = "info@smartsafety.com";
+
+/* Class = "UIButton"; normalTitle = "setting"; ObjectID = "ar1-2y-RE7"; */
+"ar1-2y-RE7.normalTitle" = "الإعدادت";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "b5M-y1-dVM"; */
+"b5M-y1-dVM.text" = "الاجمالي";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "bM0-ID-MDg"; */
+"bM0-ID-MDg.title" = "الرئيسية";
+
+/* Class = "UILabel"; text = "order"; ObjectID = "bO5-QJ-arf"; */
+"bO5-QJ-arf.text" = "ترتيــب حسب";
+
+/* Class = "UILabel"; text = "My Rating"; ObjectID = "bTO-rl-9ou"; */
+"bTO-rl-9ou.text" = "تقييماتي";
+
+/* Class = "UILabel"; text = "About smart sayfety"; ObjectID = "bVy-dY-E2V"; */
+"bVy-dY-E2V.text" = "عن متاجر";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "bZH-xh-3TH"; */
+"bZH-xh-3TH.normalTitle" = "تسجيل دخول";
+
+/* Class = "UITextField"; placeholder = "what do you searching for ?"; ObjectID = "c0R-hU-Kx8"; */
+"c0R-hU-Kx8.placeholder" = "ما الذي تبحث عنه ؟";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "cL0-Wv-wdd"; */
+"cL0-Wv-wdd.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "d5O-oU-Qcz"; */
+"d5O-oU-Qcz.text" = "الاسم الأخير";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "dNk-Mz-51e"; */
+"dNk-Mz-51e.text" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "dgg-ab-YOf"; */
+"dgg-ab-YOf.text" = "التسجيل";
+
+/* Class = "UITabBarItem"; title = "Cart"; ObjectID = "duA-Js-oYx"; */
+"duA-Js-oYx.title" = "سلة الشراء";
+
+/* Class = "UILabel"; text = "Web"; ObjectID = "eU4-xw-fCY"; */
+"eU4-xw-fCY.text" = "الموقع الالكتروني";
+
+/* Class = "UIButton"; normalTitle = "Forget Password ?"; ObjectID = "esy-Z4-c4J"; */
+"esy-Z4-c4J.normalTitle" = "نسيت كلمة المرور؟";
+
+/* Class = "UIButton"; normalTitle = "complete your order"; ObjectID = "fdM-PV-ifb"; */
+"fdM-PV-ifb.normalTitle" = "إتمام الطلب";
+
+/* Class = "UILabel"; text = "Quntity:"; ObjectID = "fsK-tR-4Q3"; */
+"fsK-tR-4Q3.text" = "الكمية:";
+
+/* Class = "UITableViewSection"; footerTitle = " "; ObjectID = "hOx-ZG-rWX"; */
+"hOx-ZG-rWX.footerTitle" = " ";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "hOx-ZG-rWX"; */
+"hOx-ZG-rWX.headerTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Login >"; ObjectID = "hlw-aT-KuU"; */
+"hlw-aT-KuU.normalTitle" = "تسجيل الدخول >";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "iO0-zX-uZY"; */
+"iO0-zX-uZY.text" = "الاسم الأول";
+
+/* Class = "UITextField"; placeholder = "what do you searching for ?"; ObjectID = "jJ9-4Q-Uyb"; */
+"jJ9-4Q-Uyb.placeholder" = "ما الذي تبحث عنه ؟";
+
+/* Class = "UILabel"; text = "15,000 RAS"; ObjectID = "jub-KF-Id6"; */
+"jub-KF-Id6.text" = "15,000 ر.س";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "k9k-vM-wpD"; */
+"k9k-vM-wpD.text" = "تاريخ الميلاد";
+
+/* Class = "UILabel"; text = "User profile"; ObjectID = "kEM-uL-VLW"; */
+"kEM-uL-VLW.text" = "بروفايل المستخدم";
+
+/* Class = "UILabel"; text = "Why do we use it?"; ObjectID = "kdT-PB-llM"; */
+"kdT-PB-llM.text" = "Why do we use it?";
+
+/* Class = "UILabel"; text = "Estimated value of tax\n"; ObjectID = "lFC-yJ-yEP"; */
+"lFC-yJ-yEP.text" = "القيمة المقدرة للضريبة";
+
+/* Class = "UILabel"; text = "male"; ObjectID = "mDD-e3-m0A"; */
+"mDD-e3-m0A.text" = "ذكر";
+
+/* Class = "UILabel"; text = "15,000 RAS"; ObjectID = "oie-4u-UuG"; */
+"oie-4u-UuG.text" = "15,000 ر.س";
+
+/* Class = "UILabel"; text = "Mobile number"; ObjectID = "pXn-ck-0Qe"; */
+"pXn-ck-0Qe.text" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "qID-UD-lk7"; */
+"qID-UD-lk7.text" = "البريد الالكتروني";
+
+/* Class = "UIButton"; normalTitle = "www.smartsafety.com"; ObjectID = "qVk-AY-giB"; */
+"qVk-AY-giB.normalTitle" = "www.smartsafety.com";
+
+/* Class = "UILabel"; text = "delivary"; ObjectID = "qpi-OD-MiL"; */
+"qpi-OD-MiL.text" = "الشحن";
+
+/* Class = "UILabel"; text = " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,. "; ObjectID = "sQQ-2z-gNQ"; */
+"sQQ-2z-gNQ.text" = " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,. ";
+
+/* Class = "UILabel"; text = "+966 5992 45210"; ObjectID = "sf1-Xr-HRk"; */
+"sf1-Xr-HRk.text" = "+966 5992 45210";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "tKm-Mz-VQ1"; */
+"tKm-Mz-VQ1.text" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "mohammed"; ObjectID = "tWO-P5-vjG"; */
+"tWO-P5-vjG.text" = "mohammed";
+
+/* Class = "UIButton"; normalTitle = "x"; ObjectID = "trD-C9-w87"; */
+"trD-C9-w87.normalTitle" = "x";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "uJ3-I5-TgX"; */
+"uJ3-I5-TgX.text" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Login "; ObjectID = "uWJ-RG-jrq"; */
+"uWJ-RG-jrq.text" = "تسجيل دخول";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "vOq-Zf-qfC"; */
+"vOq-Zf-qfC.normalTitle" = "اعادة تعيين كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "email@domain.com"; ObjectID = "vVm-nQ-mp8"; */
+"vVm-nQ-mp8.placeholder" = "email@domain.com";
+
+/* Class = "UILabel"; text = "v1.0.0.5"; ObjectID = "vYs-sa-bz0"; */
+"vYs-sa-bz0.text" = "v1.0.0.5";
+
+/* Class = "UILabel"; text = " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,. "; ObjectID = "vm9-uC-7E3"; */
+"vm9-uC-7E3.text" = " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,. ";
+
+/* Class = "UITextField"; placeholder = "what do you searching for ?"; ObjectID = "vwT-fS-Yc2"; */
+"vwT-fS-Yc2.placeholder" = "ما الذي تبحث عنه ؟";
+
+/* Class = "UILabel"; text = "Cash on Delivery Commission\n"; ObjectID = "wGz-Tk-RBe"; */
+"wGz-Tk-RBe.text" = "عمولة الدفع عند الاستلام";
+
+/* Class = "UITextField"; placeholder = "email@domain.com"; ObjectID = "waL-u6-HhL"; */
+"waL-u6-HhL.placeholder" = "email@domain.com";
+
+/* Class = "UIButton"; normalTitle = "address"; ObjectID = "wbw-hC-rwU"; */
+"wbw-hC-rwU.normalTitle" = "العناوين";
+
+/* Class = "UIViewController"; title = "profile"; ObjectID = "x6x-jd-vEC"; */
+"x6x-jd-vEC.title" = "بروفايل المستخدم";
+
+/* Class = "UITableViewController"; title = "setting"; ObjectID = "xGB-LT-6vH"; */
+"xGB-LT-6vH.title" = "setting";
+
+/* Class = "UILabel"; text = "Paravicy & policey"; ObjectID = "xKI-bC-bUZ"; */
+"xKI-bC-bUZ.text" = "Paravicy & policey";
+
+/* Class = "UIButton"; normalTitle = "register"; ObjectID = "xQW-AD-H2F"; */
+"xQW-AD-H2F.normalTitle" = "register";
+
+/* Class = "UILabel"; text = "App version"; ObjectID = "xfN-ec-36c"; */
+"xfN-ec-36c.text" = "نسخة التطبيق";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "yDB-do-pka"; */
+"yDB-do-pka.text" = "البريد الإلكتروني";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "zcB-r3-8I2"; */
+"zcB-r3-8I2.text" = "3";
+
+
+"XAT-Km-0yg.text" = "الجنــس";
+
+
+
+"4fa-09-xcd.text" = "ضريبة القيمة المضافة 5%";
+
+
+
+"8i8-PS-gNr.text" = "تحويل الآن";

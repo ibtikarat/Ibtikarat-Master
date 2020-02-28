@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15400" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15404"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Bahij_TheSansArabic-Bold.ttf">
+            <string>BahijTheSansArabic-Bold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="OfferCVC" id="gTV-IL-0wX" customClass="OfferCVC" customModule="Bayt_Alaroos" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="141" height="246"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="141" height="246"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="w3I-at-lrL">
+                        <rect key="frame" x="8" y="8" width="125" height="230"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Offer" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XUN-c0-baB">
+                                <rect key="frame" x="0.0" y="0.0" width="30" height="17"/>
+                                <color key="backgroundColor" name="primaryColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="30" id="0hm-I5-mkT"/>
+                                    <constraint firstAttribute="height" constant="17" id="EXj-Zt-LFp"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="9"/>
+                                <color key="textColor" cocoaTouchSystemColor="tableCellGroupedBackgroundColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="r5a-WW-Zq3" customClass="UICheckBox" customModule="Bayt_Alaroos" customModuleProvider="target">
+                                <rect key="frame" x="103" y="4" width="18" height="16"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="16" id="A0R-ec-meY"/>
+                                    <constraint firstAttribute="width" constant="18" id="Lvv-Vf-1OR"/>
+                                </constraints>
+                                <state key="normal" image="ic_fav_empty"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="image" keyPath="uncheckedImage" value="ic_fav_empty"/>
+                                    <userDefinedRuntimeAttribute type="image" keyPath="checkedImage" value="ic_fav_filled"/>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="thumnil_img_fire_down" translatesAutoresizingMaskIntoConstraints="NO" id="hkJ-xc-GWS">
+                                <rect key="frame" x="-4" y="21" width="80" height="80"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="hkJ-xc-GWS" secondAttribute="height" multiplier="1:1" id="EJ5-V4-vim"/>
+                                    <constraint firstAttribute="height" constant="80" id="IeT-vp-Oxc"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="this is title " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VuG-M5-0IZ">
+                                <rect key="frame" x="0.0" y="109" width="58" height="14"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="this is description of offer insde cell" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BmO-fS-7IK">
+                                <rect key="frame" x="0.0" y="125" width="125" height="26"/>
+                                <fontDescription key="fontDescription" name="BahijTheSansArabic-Bold" family="Bahij TheSansArabic" pointSize="11"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="500 SAR" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FFU-Kc-lKh">
+                                <rect key="frame" x="0.0" y="169.5" width="49" height="14"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="14" id="Ym4-eS-BzD"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="11"/>
+                                <color key="textColor" name="primaryColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Cbf-qz-vZ6">
+                                <rect key="frame" x="57" y="169.5" width="46" height="14"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="500 SAR">
+                                        <attributes>
+                                            <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <font key="NSFont" metaFont="message" size="11"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="truncatingMiddle" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p24-jr-XQ4" customClass="AddToCartButton" customModule="Bayt_Alaroos" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="203" width="125" height="27"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="27" id="fn4-Ds-XbZ"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                <inset key="imageEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                <state key="normal" title="اضف الى العربة" image="ic_home_cart"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="2"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="VuG-M5-0IZ" firstAttribute="top" secondItem="hkJ-xc-GWS" secondAttribute="bottom" constant="8" id="5Uz-Li-3wE"/>
+                            <constraint firstItem="BmO-fS-7IK" firstAttribute="top" secondItem="VuG-M5-0IZ" secondAttribute="bottom" constant="2" id="7ml-f0-fD5"/>
+                            <constraint firstItem="hkJ-xc-GWS" firstAttribute="leading" secondItem="w3I-at-lrL" secondAttribute="leading" constant="-4" id="Fb4-bs-DAc"/>
+                            <constraint firstAttribute="trailing" secondItem="BmO-fS-7IK" secondAttribute="trailing" id="JLa-uP-uYZ"/>
+                            <constraint firstItem="XUN-c0-baB" firstAttribute="top" secondItem="w3I-at-lrL" secondAttribute="top" id="SQP-Ts-50w"/>
+                            <constraint firstAttribute="bottom" secondItem="p24-jr-XQ4" secondAttribute="bottom" id="VcA-OW-eBr"/>
+                            <constraint firstItem="hkJ-xc-GWS" firstAttribute="top" secondItem="XUN-c0-baB" secondAttribute="bottom" constant="4" id="a69-p9-0Up"/>
+                            <constraint firstItem="p24-jr-XQ4" firstAttribute="leading" secondItem="w3I-at-lrL" secondAttribute="leading" id="bjZ-pr-ZAh"/>
+                            <constraint firstItem="XUN-c0-baB" firstAttribute="leading" secondItem="w3I-at-lrL" secondAttribute="leading" id="cFS-Fa-8OJ"/>
+                            <constraint firstItem="FFU-Kc-lKh" firstAttribute="top" relation="lessThanOrEqual" secondItem="VuG-M5-0IZ" secondAttribute="bottom" priority="999" constant="46.5" id="cRz-NB-hOR"/>
+                            <constraint firstItem="BmO-fS-7IK" firstAttribute="leading" secondItem="w3I-at-lrL" secondAttribute="leading" id="eW3-D0-RSX"/>
+                            <constraint firstItem="FFU-Kc-lKh" firstAttribute="leading" secondItem="w3I-at-lrL" secondAttribute="leading" id="fya-wa-1Sm"/>
+                            <constraint firstAttribute="trailing" secondItem="r5a-WW-Zq3" secondAttribute="trailing" constant="4" id="kmg-28-vNc"/>
+                            <constraint firstItem="p24-jr-XQ4" firstAttribute="top" secondItem="FFU-Kc-lKh" secondAttribute="bottom" constant="19.5" id="lAM-Y0-uIJ"/>
+                            <constraint firstItem="Cbf-qz-vZ6" firstAttribute="firstBaseline" secondItem="FFU-Kc-lKh" secondAttribute="firstBaseline" id="mGu-kX-g0o"/>
+                            <constraint firstItem="Cbf-qz-vZ6" firstAttribute="leading" secondItem="FFU-Kc-lKh" secondAttribute="trailing" constant="8" id="pi9-IJ-DoJ"/>
+                            <constraint firstItem="r5a-WW-Zq3" firstAttribute="top" secondItem="w3I-at-lrL" secondAttribute="top" constant="4" id="r61-qg-lms"/>
+                            <constraint firstAttribute="trailing" secondItem="hkJ-xc-GWS" secondAttribute="trailing" constant="-4" id="v0X-T7-dWN"/>
+                            <constraint firstAttribute="trailing" secondItem="p24-jr-XQ4" secondAttribute="trailing" id="w8m-1i-pa5"/>
+                            <constraint firstItem="VuG-M5-0IZ" firstAttribute="leading" secondItem="w3I-at-lrL" secondAttribute="leading" id="zc0-rd-gYl"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="w3I-at-lrL" secondAttribute="trailing" constant="8" id="DAZ-uX-FLk"/>
+                <constraint firstAttribute="bottom" secondItem="w3I-at-lrL" secondAttribute="bottom" constant="8" id="ZMx-n1-HZA"/>
+                <constraint firstItem="w3I-at-lrL" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="8" id="bFI-Di-9hB"/>
+                <constraint firstItem="w3I-at-lrL" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="8" id="jDx-eG-3Jy"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <connections>
+                <outlet property="addToCartButton" destination="p24-jr-XQ4" id="Ohj-H3-fen"/>
+                <outlet property="addToFav" destination="r5a-WW-Zq3" id="oXo-7b-ESJ"/>
+                <outlet property="commistionPriceLbl" destination="FFU-Kc-lKh" id="c7K-Fi-wGe"/>
+                <outlet property="descriptionProduct" destination="BmO-fS-7IK" id="rBX-T1-Ztn"/>
+                <outlet property="offerLabel" destination="XUN-c0-baB" id="XZ6-4A-Vgm"/>
+                <outlet property="priceLbl" destination="Cbf-qz-vZ6" id="36e-BG-0Um"/>
+                <outlet property="productImage" destination="hkJ-xc-GWS" id="6at-LE-HUP"/>
+                <outlet property="titleProduct" destination="VuG-M5-0IZ" id="wN2-Bk-Hgn"/>
+            </connections>
+            <point key="canvasLocation" x="99.275362318840592" y="50.223214285714285"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="ic_fav_empty" width="22" height="19.5"/>
+        <image name="ic_fav_filled" width="18" height="16"/>
+        <image name="ic_home_cart" width="13" height="13"/>
+        <image name="thumnil_img_fire_down" width="90" height="81"/>
+        <namedColor name="primaryColor">
+            <color red="0.96100002527236938" green="0.030999999493360519" blue="0.016000000759959221" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

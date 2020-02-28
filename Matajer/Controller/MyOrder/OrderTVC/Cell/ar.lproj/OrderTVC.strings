@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "14 Apr 2019 - 05:30"; ObjectID = "11a-tV-G1L"; */
+"11a-tV-G1L.text" = "14 Apr 2019 - 05:30";
+
+/* Class = "UILabel"; text = "قيد التنفيذ"; ObjectID = "E3f-MW-vDC"; */
+"E3f-MW-vDC.text" = "قيد التنفيذ";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "K6j-Fw-b3Y"; */
+"K6j-Fw-b3Y.text" = "5";
+
+/* Class = "UILabel"; text = "500 ر.س"; ObjectID = "KYa-Ua-eNh"; */
+"KYa-Ua-eNh.text" = "500 ر.س";
+
+/* Class = "UILabel"; text = "تاريخ الطلب : "; ObjectID = "M3Q-ku-JIF"; */
+"M3Q-ku-JIF.text" = "تاريخ الطلب : ";
+
+/* Class = "UIButton"; normalTitle = "الفاتورة"; ObjectID = "MQe-cr-TRd"; */
+"MQe-cr-TRd.normalTitle" = "الفاتورة";
+
+/* Class = "UILabel"; text = "قيد التوصيل"; ObjectID = "RS0-2E-13z"; */
+"RS0-2E-13z.text" = "قيد التوصيل";
+
+/* Class = "UILabel"; text = "حالة الطلب : "; ObjectID = "VUr-WQ-awj"; */
+"VUr-WQ-awj.text" = "حالة الطلب : ";
+
+/* Class = "UIButton"; normalTitle = "  إعادة الطلب  "; ObjectID = "Wxu-5f-hOq"; */
+"Wxu-5f-hOq.normalTitle" = "  إعادة الطلب  ";
+
+/* Class = "UIButton"; normalTitle = "التحويل البنكي"; ObjectID = "cIp-ZG-0oh"; */
+"cIp-ZG-0oh.normalTitle" = "التحويل البنكي";
+
+/* Class = "UILabel"; text = "قيد التنفيذ"; ObjectID = "lDb-pw-drO"; */
+"lDb-pw-drO.text" = "قيد التنفيذ";
+
+/* Class = "UILabel"; text = "تم الاستلام"; ObjectID = "uXs-La-dUc"; */
+"uXs-La-dUc.text" = "تم الاستلام";
+
+/* Class = "UILabel"; text = "عدد المنتجات: "; ObjectID = "wyM-0C-Lfg"; */
+"wyM-0C-Lfg.text" = "رقم الطلب: ";
+
+
+
+"6kV-6q-Z1j.text" = "عدد المنتجات: ";
+
+

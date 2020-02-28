@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15400" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15404"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="ShippingMethodConfirmationTLblVC" rowHeight="55" id="KGk-i7-Jjw">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="55"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="55"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="t4u-kZ-2XK">
+                        <rect key="frame" x="10" y="0.0" width="300" height="55"/>
+                        <subviews>
+                            <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CIg-nb-w6n" customClass="UICheckBox" customModule="SmartSafety">
+                                <rect key="frame" x="8" y="15" width="25" height="25"/>
+                                <state key="normal" image="ic_check"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="image" keyPath="checkedImage" value="ic_check"/>
+                                    <userDefinedRuntimeAttribute type="image" keyPath="uncheckedImage" value="ic_uccheck"/>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                            <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="A19-r6-Ja3">
+                                <rect key="frame" x="41" y="20.5" width="64.5" height="14.5"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="طريقة الشحن" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kas-Se-DA7">
+                                        <rect key="frame" x="0.0" y="0.0" width="64.5" height="14.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                        <color key="textColor" red="0.53333333333333333" green="0.53333333333333333" blue="0.53333333333333333" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="التكلفة" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bi1-YN-iYg">
+                                <rect key="frame" x="244" y="20.5" width="32" height="14.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" red="0.53333333329999999" green="0.53333333329999999" blue="0.53333333329999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="وقت التوصيل" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nk4-I5-YBb">
+                                <rect key="frame" x="141.5" y="20.5" width="64.5" height="14.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" red="0.53333333329999999" green="0.53333333329999999" blue="0.53333333329999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="A19-r6-Ja3" firstAttribute="centerY" secondItem="t4u-kZ-2XK" secondAttribute="centerY" id="AkW-QB-0Kc"/>
+                            <constraint firstItem="CIg-nb-w6n" firstAttribute="leading" secondItem="t4u-kZ-2XK" secondAttribute="leading" constant="8" id="GgI-WB-3cR"/>
+                            <constraint firstItem="CIg-nb-w6n" firstAttribute="centerY" secondItem="t4u-kZ-2XK" secondAttribute="centerY" id="Gl9-VX-ExV"/>
+                            <constraint firstAttribute="trailing" secondItem="nk4-I5-YBb" secondAttribute="trailing" constant="94" id="XDa-4m-9x2"/>
+                            <constraint firstItem="bi1-YN-iYg" firstAttribute="centerY" secondItem="t4u-kZ-2XK" secondAttribute="centerY" id="dAr-AN-4gz"/>
+                            <constraint firstItem="nk4-I5-YBb" firstAttribute="centerY" secondItem="t4u-kZ-2XK" secondAttribute="centerY" id="gfA-L2-pOc"/>
+                            <constraint firstItem="A19-r6-Ja3" firstAttribute="leading" secondItem="t4u-kZ-2XK" secondAttribute="leading" constant="41" id="pU0-1A-vqP"/>
+                            <constraint firstAttribute="trailing" secondItem="bi1-YN-iYg" secondAttribute="trailing" constant="24" id="qdP-92-UnK"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="3"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="-2"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" red="0.98039215690000003" green="0.98039215690000003" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                <constraints>
+                    <constraint firstItem="t4u-kZ-2XK" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="9YL-E7-BIS"/>
+                    <constraint firstItem="t4u-kZ-2XK" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="BNH-A5-tys"/>
+                    <constraint firstAttribute="bottom" secondItem="t4u-kZ-2XK" secondAttribute="bottom" id="Bl3-Km-k4E"/>
+                    <constraint firstAttribute="trailing" secondItem="t4u-kZ-2XK" secondAttribute="trailing" constant="10" id="O6u-iL-4vs"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <point key="canvasLocation" x="146.37681159420291" y="133.59375"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="ic_check" width="25" height="25"/>
+        <image name="ic_uccheck" width="22" height="22"/>
+    </resources>
+</document>

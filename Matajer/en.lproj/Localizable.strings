@@ -1,0 +1,263 @@
+
+"brand" = "Brands";
+
+
+"main" = "Main";
+
+"most_order" = "Most Order";
+ 
+
+"offers" = "Offers";
+
+"recently_arrived" = "Recently arrived";
+
+"news" = "News";
+
+
+
+
+
+"suggestion" = "suggestion";
+
+"no_products_in_favorites" = "No products in favorites";
+
+"you_must_be_logged_in_to_view_products_in_favorites" = "You must be logged in to view products in favorites";
+
+
+
+"you_dont_have_whatsapp_app" = "you dont have whatsapp app";
+
+
+
+"smart_safety" = "Matajer";
+
+
+
+"you_must_enter_valid_email" = "You must enter valid email";
+"you_must_enter_password" = "You must enter password";
+
+
+"you_must_enter_first_name" = "You must enter first name";
+"you_must_enter_last_name" = "You must enter last name";
+"you_must_enter_valid_mobile_number" = "You must enter valid mobile number";
+
+
+"about_smart_safety" = "About Matajer";
+
+
+"delivary_address" = "Delivary Address";
+"are_you_sure_want_to_delete_your_address" = "are you sure want to delete your address ?";
+"delete" = "Delete";
+
+
+"cart" = "Cart";
+"payment_methods" = "Payment methods";
+"shipment_methods" = "Shipment methods";
+
+
+
+"news" = "News";
+"current" = "Current";
+"completed" = "Completed";
+"rejected" = "Rejected";
+"my_orders" = "My Orders";
+
+
+"do_you_want_to_add_all_products_in_your_cart" = "Do you want to add all products in your cart?";
+"add_to_cart" = "Add to Cart";
+"cancel" = "Cancel";
+"all_products_added_in_cart" = "All Products Added In Cart";
+
+
+"order_details" = "Order Details";
+"do_you_want_to_add_the_product_to_cart" = "Do you want to add the product to cart?";
+"product_added_to_cart" = "Product added to cart";
+
+"rate_product" = "Rate Product";
+
+
+"rate" = "Rate ";
+
+
+
+"product details" = "Product Details";
+"product reviews" = "Product Reviews";
+
+
+
+"banks_account" = "Banks Account";
+"bank_transfer_confirmation" = "Bank Transfer Confirmation";
+"order_number_is" = "Order number is:";
+"you_must_enter_bank_name" = "You must enter bank name";
+"you_must_enter_place_holder_name" = "You must enter place holder name";
+"you_must_enter_price" = "You must enter price";
+"you_must_enter_date" = "You must enter date";
+"you_must_attachment_file" = "You must attachment file";
+
+"name" = "Name";
+"account_number" = "Account Number";
+"iban" = "IBAN";
+
+"settings" = "Settings ";
+
+"terms_and_conditions" = "Terms and Conditions";
+
+
+
+"current_location" = "Current Location";
+
+
+"you_must_enter_office_name" = "You must enter name of place";
+"you_must_enter_city" = "You must enter city";
+"you_must_enter_address" = "You must enter address";
+
+
+
+"you_must_enter_full_name" = "You must enter full name";
+"you_must_enter_description" = "You Must enter description";
+
+
+
+"first_name" = "First Name";
+"full_name" = "Full Name";
+"last_name" = "Last Name";
+"mobile_number" = "Mobile Number";
+"email" = "Email";
+ 
+
+
+"you_must_enter_new_password" = "You must enter new password";
+"password_mismatch" = "password mismatch";
+
+
+
+"search_result" = "Search Result";
+
+
+"product_category" = "Product Category";
+"category" = "Category";
+"trade_marks" = "Trade Marks";
+"colors" = "Colors";
+"ratings" = "Ratings";
+
+
+
+"logout" = "Logout";
+"sign_out" = "Sign out?";
+"no" = "No";
+"please_check_your_internet_connection" = "please check your internet connection";
+"connection_error" = "connection error";
+"retry" = "Retry";
+"ok" = "Ok";
+
+
+"more" = "more";
+
+
+
+
+"credit_cards" = "Credit Cards";
+"bank_transfer" = "Bank Transfer";
+"paiement_when_recieving" = "Paiement when recieving";
+
+
+
+
+"male" = "male";
+"female" = "female";
+
+
+/*OrderConfirmatonVC*/
+"you_must_select_address" = "you must select address";
+"you_must_select_shipping_methods" = "you must select shipping methods";
+"you_must_seleect_payment_method" = "you must seleect payment method";
+
+
+/*ContactUS*/
+"contact_us" = "Contact Us";
+
+
+/*ProfileInformationTVC*/
+"user_profile" = "User Profile";
+
+/*ShppingMethodConfirmation*/
+"day" = "day";
+
+
+
+/*OrderConfirmationVC*/
+
+"do_you_want_to_confirm_the_request" = "Do you want to confirm the request?";
+"later" = "Later";
+"confirm" = "Confirm";
+
+
+
+
+/*MyRatingVC*/
+"my_rating" = "My Rating";
+
+
+
+
+
+/*status of order*/
+"new" = "new";
+"delivering" = "Delivering";
+"processing" = "Processing";
+"completed" = "Completed";
+"rejected" = "Rejected";
+
+
+/*ProfileVC*/
+"member_since" = "Member since";
+
+
+/*date*/
+"one_year_ago" = "one year ago";
+"two_years_ago" = "two years ago";
+"year" = "year";
+"years" = "year";
+ 
+"one_month_ago" = "one month ago";
+"two_months_ago" = "two months ago";
+"month" = "month";
+"months" = "month";
+  
+"one_day_ago"="one day ago";
+"two_days_ago"="two days ago";
+"day"="day";
+"days"="day";
+"member_today"="today";
+
+
+"one_hour_ago" = "one hour ago";
+"two_hours_ago" = "two hour ago";
+"hour" = "hour";
+"hours" = "hours";
+
+"one_minute_ago" = "one minute ago";
+"two_minutes_ago" = "two minutes ago";
+"minute" = "minute";
+"minutes" = "minutes";
+
+"moments_ago" = "moments ago";
+
+
+
+/*NotificationVC*/
+"notification" = "notification";
+
+
+
+/*ScuccessOrderVC*/
+"order_success_message" = "You can now monitor the status of the order, from \n Through the order number:";
+
+
+
+
+"change_address" = "Change Address";
+"add_address" = "Add Address";
+
+"Final total tax incl" = "Final total tax incl";
+"Final total" = "Final total";

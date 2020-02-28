@@ -1,0 +1,173 @@
+
+/* Class = "UILabel"; text = "15,000 RAS"; ObjectID = "2Xs-hb-Bue"; */
+"2Xs-hb-Bue.text" = "15,000 RAS";
+
+/* Class = "UIButton"; normalTitle = "تطبيق"; ObjectID = "4GP-hH-p3q"; */
+"4GP-hH-p3q.normalTitle" = "تطبيق";
+
+/* Class = "UITextField"; placeholder = "ما الذي تبحث عنه ؟"; ObjectID = "59i-qY-YH5"; */
+"59i-qY-YH5.placeholder" = "ما الذي تبحث عنه ؟";
+
+/* Class = "UILabel"; text = "صورة التحويل"; ObjectID = "5zz-jN-YLB"; */
+"5zz-jN-YLB.text" = "صورة التحويل";
+
+/* Class = "UILabel"; text = "لايوجد نتائج "; ObjectID = "61X-iS-cyv"; */
+"61X-iS-cyv.text" = "لايوجد نتائج ";
+
+/* Class = "UILabel"; text = "15,000 RAS"; ObjectID = "6tT-Ix-Vr7"; */
+"6tT-Ix-Vr7.text" = "15,000 RAS";
+
+/* Class = "UILabel"; text = "رقم البطاقة"; ObjectID = "898-E4-P4x"; */
+"898-E4-P4x.text" = "رقم البطاقة";
+
+/* Class = "UITextField"; placeholder = "رقم صاحب الحساب"; ObjectID = "9Hn-6S-cLC"; */
+"9Hn-6S-cLC.placeholder" = "رقم صاحب الحساب";
+
+/* Class = "UILabel"; text = "delivary"; ObjectID = "9jt-Dw-eua"; */
+"9jt-Dw-eua.text" = "الشحن";
+
+/* Class = "UILabel"; text = "Final total tax incl"; ObjectID = "BcT-6m-jf9"; */
+"BcT-6m-jf9.text" = "الاجمالي النهائي شامل الضريبة";
+
+/* Class = "UILabel"; text = "Cash on Delivery Commission\n"; ObjectID = "Gwi-P4-RFt"; */
+"Gwi-P4-RFt.text" = "عمولة الدفع عند الاستلام";
+
+/* Class = "UITabBarItem"; title = "Favorate"; ObjectID = "Hc3-DF-wxg"; */
+"Hc3-DF-wxg.title" = "المفضلة";
+
+/* Class = "UITextField"; placeholder = "المبلغ"; ObjectID = "HtR-FN-vId"; */
+"HtR-FN-vId.placeholder" = "المبلغ";
+
+/* Class = "UILabel"; text = "بيانات الدفع"; ObjectID = "KZc-Vv-T16"; */
+"KZc-Vv-T16.text" = "بيانات الدفع";
+
+/* Class = "UIButton"; normalTitle = "تخطـي"; ObjectID = "Kth-56-VxL"; */
+"Kth-56-VxL.normalTitle" = "تخطـي";
+
+/* Class = "UILabel"; text = "ترتيــب حسب"; ObjectID = "LGM-KJ-tSu"; */
+"LGM-KJ-tSu.text" = "ترتيــب حسب";
+
+/* Class = "UITextField"; placeholder = "اسم صاحب البطاقة"; ObjectID = "My4-Az-nU9"; */
+"My4-Az-nU9.placeholder" = "اسم صاحب البطاقة";
+
+/* Class = "UITextField"; placeholder = "رقم الطلب"; ObjectID = "N2l-bg-j8B"; */
+"N2l-bg-j8B.placeholder" = "رقم الطلب";
+
+/* Class = "UITextField"; placeholder = "اسم صاحب الحساب"; ObjectID = "NR3-QC-ofa"; */
+"NR3-QC-ofa.placeholder" = "اسم صاحب الحساب";
+
+/* Class = "UILabel"; text = "تصنيف حسب"; ObjectID = "R0F-bU-0Fp"; */
+"R0F-bU-0Fp.text" = "تصنيف حسب";
+
+/* Class = "UITextField"; placeholder = "MM / YY"; ObjectID = "R6C-wx-SHi"; */
+"R6C-wx-SHi.placeholder" = "MM / YY";
+
+/* Class = "UITabBarItem"; title = "Favorate"; ObjectID = "UMv-Kw-gBb"; */
+"UMv-Kw-gBb.title" = "Favorate";
+
+/* Class = "UILabel"; text = "15,000 RAS"; ObjectID = "Uho-5G-nEU"; */
+"Uho-5G-nEU.text" = "15,000 RAS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "V49-1O-8G0"; */
+"V49-1O-8G0.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "إتمام الطلب"; ObjectID = "W1w-CB-u5Q"; */
+"W1w-CB-u5Q.normalTitle" = "إتمام الطلب";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WNm-W7-tbH"; */
+"WNm-W7-tbH.text" = "Label";
+
+/* Class = "UILabel"; text = "حجم الملف لا يزيد عن 5 ميجا"; ObjectID = "WVo-96-nLN"; */
+"WVo-96-nLN.text" = "حجم الملف لا يزيد عن 5 ميجا";
+
+/* Class = "UIButton"; normalTitle = "إعادة التعيين"; ObjectID = "Wkm-qZ-1Pw"; */
+"Wkm-qZ-1Pw.normalTitle" = "إعادة التعيين";
+
+/* Class = "UIButton"; normalTitle = "إتمام الدفع"; ObjectID = "WuI-uU-zvt"; */
+"WuI-uU-zvt.normalTitle" = "إتمام الدفع";
+
+/* Class = "UILabel"; text = "ملاحظة مهمة: لا تقم بارسال طلب تأكيد التحويل البنكي , الا بعد إتمام التحويل بالكامل  و استلامك فاتورة الحوالة من موظف البنك."; ObjectID = "XHF-pz-0ee"; */
+"XHF-pz-0ee.text" = "ملاحظة مهمة: لا تقم بارسال طلب تأكيد التحويل البنكي , الا بعد إتمام التحويل بالكامل  و استلامك فاتورة الحوالة من موظف البنك.";
+
+/* Class = "UILabel"; text = "تاريخ الانتهاء"; ObjectID = "XXP-bi-ERc"; */
+"XXP-bi-ERc.text" = "تاريخ الانتهاء";
+
+/* Class = "UILabel"; text = "كوبون الخصم"; ObjectID = "Xf0-2y-ghE"; */
+"Xf0-2y-ghE.text" = "قيمة الخصم";
+
+/* Class = "UIButton"; normalTitle = "نتائج التصنيف"; ObjectID = "Xqu-w7-9XW"; */
+"Xqu-w7-9XW.normalTitle" = "نتائج التصنيف";
+
+/* Class = "UITextField"; placeholder = "تاريخ التحويل"; ObjectID = "YRw-37-YTL"; */
+"YRw-37-YTL.placeholder" = "تاريخ التحويل";
+
+/* Class = "UILabel"; text = "15,000 RAS"; ObjectID = "aG1-ep-cTp"; */
+"aG1-ep-cTp.text" = "15,000 RAS";
+
+/* Class = "UITextField"; placeholder = "000"; ObjectID = "aS4-L4-80u"; */
+"aS4-L4-80u.placeholder" = "000";
+
+/* Class = "UIButton"; normalTitle = "تأكيد التحويل البنكي"; ObjectID = "adV-WW-xcK"; */
+"adV-WW-xcK.normalTitle" = "تأكيد التحويل البنكي";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bWY-Yl-FVA"; */
+"bWY-Yl-FVA.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "تصنيف حسب"; ObjectID = "fzd-Eu-iSE"; */
+"fzd-Eu-iSE.normalTitle" = "تصنيف حسب";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gsu-vl-HNx"; */
+"gsu-vl-HNx.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "1343 8239 9839 xxxx"; ObjectID = "hKc-Wh-KVe"; */
+"hKc-Wh-KVe.placeholder" = "1343 8239 9839 xxxx";
+
+/* Class = "UILabel"; text = "15,000 RAS"; ObjectID = "hdA-IH-3m9"; */
+"hdA-IH-3m9.text" = "15,000 RAS";
+
+/* Class = "UIButton"; normalTitle = "تطبيق"; ObjectID = "j0Z-PO-8Fl"; */
+"j0Z-PO-8Fl.normalTitle" = "تطبيق";
+
+/* Class = "UILabel"; text = "اسم صاحب البطاقة"; ObjectID = "lLF-2J-Dxn"; */
+"lLF-2J-Dxn.text" = "اسم صاحب البطاقة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lgk-Sm-0mS"; */
+"lgk-Sm-0mS.text" = "Label";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "lxM-JY-Lqe"; */
+"lxM-JY-Lqe.text" = "الاجمالي";
+
+/* Class = "UILabel"; text = "لايوجد نتائج "; ObjectID = "m58-lV-QAc"; */
+"m58-lV-QAc.text" = "لايوجد نتائج ";
+
+/* Class = "UILabel"; text = "Order details"; ObjectID = "rhP-c9-33H"; */
+"rhP-c9-33H.text" = "تفاصيل الطلب";
+
+/* Class = "UILabel"; text = "صيغ الملف PNG,JPEG"; ObjectID = "sd1-71-qkJ"; */
+"sd1-71-qkJ.text" = "صيغ الملف PNG,JPEG";
+
+/* Class = "UIButton"; normalTitle = "تأكيد و ارسـال"; ObjectID = "w2s-dL-hXE"; */
+"w2s-dL-hXE.normalTitle" = "تأكيد و ارسـال";
+
+/* Class = "UIButton"; normalTitle = "ماركا"; ObjectID = "whz-ay-708"; */
+"whz-ay-708.normalTitle" = "ماركا";
+
+/* Class = "UILabel"; text = "حفظ بيانات البطاقة"; ObjectID = "wqt-pu-WKJ"; */
+"wqt-pu-WKJ.text" = "حفظ بيانات البطاقة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xlW-ue-kPC"; */
+"xlW-ue-kPC.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "الشروط والأحكام"; ObjectID = "xqg-Jq-i3x"; */
+"xqg-Jq-i3x.normalTitle" = "الشروط والأحكام";
+
+/* Class = "UITextField"; placeholder = "البنك"; ObjectID = "zAQ-Sg-Vvq"; */
+"zAQ-Sg-Vvq.placeholder" = "البنك";
+
+/* Class = "UIButton"; normalTitle = "تصنيف حسب"; ObjectID = "zgG-ZU-1h8"; */
+"zgG-ZU-1h8.normalTitle" = "تصنيف حسب";
+
+
+
+
+"grl-X7-5CO.text" = "ضريبة القيمة المضافة 5%";

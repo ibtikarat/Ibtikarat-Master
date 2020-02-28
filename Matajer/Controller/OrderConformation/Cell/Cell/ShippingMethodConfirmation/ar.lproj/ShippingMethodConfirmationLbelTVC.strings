@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "طريقة الشحن"; ObjectID = "Kas-Se-DA7"; */
+"Kas-Se-DA7.text" = "طريقة الشحن";
+
+/* Class = "UILabel"; text = "التكلفة"; ObjectID = "bi1-YN-iYg"; */
+"bi1-YN-iYg.text" = "التكلفة";
+
+/* Class = "UILabel"; text = "وقت التوصيل"; ObjectID = "nk4-I5-YBb"; */
+"nk4-I5-YBb.text" = "وقت التوصيل";

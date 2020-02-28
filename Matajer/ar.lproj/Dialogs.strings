@@ -1,0 +1,93 @@
+
+/* Class = "UIButton"; normalTitle = "تغيير اللغة"; ObjectID = "0Yc-Id-xzn"; */
+"0Yc-Id-xzn.normalTitle" = "تغيير اللغة";
+
+/* Class = "UILabel"; text = "تعديل اللبيانات"; ObjectID = "9cD-SH-17X"; */
+"9cD-SH-17X.text" = "تعديل اللبيانات";
+
+/* Class = "UILabel"; text = "مقترحــة لك"; ObjectID = "GQD-4v-pVI"; */
+"GQD-4v-pVI.text" = "مقترحــة لك";
+
+/* Class = "UIButton"; normalTitle = "حفـــظ"; ObjectID = "HLi-Na-fed"; */
+"HLi-Na-fed.normalTitle" = "حفـــظ";
+
+/* Class = "UILabel"; text = "انثى"; ObjectID = "Mmo-zc-US5"; */
+"Mmo-zc-US5.text" = "انثى";
+
+/* Class = "UILabel"; text = "الانجليزية"; ObjectID = "QEM-0P-gCI"; */
+"QEM-0P-gCI.text" = "الانجليزية";
+
+/* Class = "UILabel"; text = "500 ras"; ObjectID = "QzU-w6-KuT"; */
+"QzU-w6-KuT.text" = "500 ras";
+
+/* Class = "UILabel"; text = "تاريخ الميلاد"; ObjectID = "RX4-fR-4dq"; */
+"RX4-fR-4dq.text" = "تاريخ الميلاد";
+
+/* Class = "UILabel"; text = "ترتيب حسب الأقدم"; ObjectID = "T4K-Ps-dSL"; */
+"T4K-Ps-dSL.text" = "ترتيب حسب الأقدم";
+
+/* Class = "UILabel"; text = "حذاء ماركة إيطالية مقــاس حريمي من 40-45 "; ObjectID = "U54-K6-cID"; */
+"U54-K6-cID.text" = "حذاء ماركة إيطالية مقــاس حريمي من 40-45 ";
+
+/* Class = "UILabel"; text = "تعديل اللبيانات"; ObjectID = "Wss-RO-hXw"; */
+"Wss-RO-hXw.text" = "تعديل اللبيانات";
+
+/* Class = "UILabel"; text = "الاسم"; ObjectID = "XDj-kM-zC9"; */
+"XDj-kM-zC9.text" = "الاسم";
+
+/* Class = "UILabel"; text = "ترتيب حسب الاحدث"; ObjectID = "bRu-b7-id7"; */
+"bRu-b7-id7.text" = "ترتيب حسب الاحدث";
+
+/* Class = "UIButton"; normalTitle = "تعديل"; ObjectID = "c5I-ST-rGx"; */
+"c5I-ST-rGx.normalTitle" = "تعديل";
+
+/* Class = "UILabel"; text = "العربية"; ObjectID = "cYr-P6-sLe"; */
+"cYr-P6-sLe.text" = "العربية";
+
+/* Class = "UILabel"; text = "تعديل البيانات"; ObjectID = "cr4-qv-vHM"; */
+"cr4-qv-vHM.text" = "تعديل البيانات";
+
+/* Class = "UIButton"; normalTitle = "تعديل"; ObjectID = "elj-jb-kiy"; */
+"elj-jb-kiy.normalTitle" = "تعديل";
+
+/* Class = "UILabel"; text = "اختر اللغة"; ObjectID = "fon-5e-ThF"; */
+"fon-5e-ThF.text" = "اختر اللغة";
+
+/* Class = "UIButton"; normalTitle = "العــودة للرئيسية"; ObjectID = "jMf-MW-yj0"; */
+"jMf-MW-yj0.normalTitle" = "العــودة للرئيسية";
+
+/* Class = "UIButton"; normalTitle = " قائمة الطلبات "; ObjectID = "kM5-eh-OPt"; */
+"kM5-eh-OPt.normalTitle" = " قائمة الطلبات ";
+
+/* Class = "UILabel"; text = "ذكر"; ObjectID = "kbS-X0-Dgo"; */
+"kbS-X0-Dgo.text" = "ذكر";
+
+/* Class = "UITextField"; placeholder = "الاسم"; ObjectID = "mR0-2D-djM"; */
+"mR0-2D-djM.placeholder" = "الاسم";
+
+/* Class = "UILabel"; text = "بامكانك الان متابعة حالة الطلب من\nخلال رقم الطلب : #123403"; ObjectID = "oaF-e5-gID"; */
+"oaF-e5-gID.text" = "بامكانك الان متابعة حالة الطلب من\nخلال رقم الطلب : #123403";
+
+/* Class = "UIButton"; normalTitle = "شراء الآن"; ObjectID = "pSf-5U-hNQ"; */
+"pSf-5U-hNQ.normalTitle" = "شراء الآن";
+
+/* Class = "UILabel"; text = "تم ارسال طلبك بنجاح "; ObjectID = "rWE-Mt-BfS"; */
+"rWE-Mt-BfS.text" = "تم ارسال طلبك بنجاح ";
+
+/* Class = "UILabel"; text = "الجنس"; ObjectID = "rmy-Gv-RhQ"; */
+"rmy-Gv-RhQ.text" = "الجنس";
+
+/* Class = "UIButton"; normalTitle = "استكمال التسـوق"; ObjectID = "yJp-HL-hzK"; */
+"yJp-HL-hzK.normalTitle" = "استكمال التسـوق";
+
+/* Class = "UILabel"; text = "السعر: من الأعلى الى الأسفل"; ObjectID = "yOC-1t-hId"; */
+"yOC-1t-hId.text" = "السعر: من الأعلى الى الأسفل";
+
+/* Class = "UILabel"; text = "السعر: من الأسفل الى الأعلى"; ObjectID = "ynf-4d-KYw"; */
+"ynf-4d-KYw.text" = "السعر: من الأسفل الى الأعلى";
+
+
+
+"8i8-PS-gNr.normalTitle" = "التحويل الآن";
+
+

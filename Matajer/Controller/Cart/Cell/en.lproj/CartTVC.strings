@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "1"; ObjectID = "BFd-R0-YCX"; */
+"BFd-R0-YCX.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "إزالة"; ObjectID = "OMa-no-B90"; */
+"OMa-no-B90.normalTitle" = "delete";
+
+/* Class = "UILabel"; text = "14 Apr 2019 - 05:30"; ObjectID = "TCt-4t-7tr"; */
+"TCt-4t-7tr.text" = "14 Apr 2019 - 05:30";
+
+/* Class = "UILabel"; text = "مطفأة حريق"; ObjectID = "Woj-me-Sgf"; */
+"Woj-me-Sgf.text" = "مطفأة حريق";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "Www-9h-jbE"; */
+"Www-9h-jbE.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "مطفأة دي بي 500 لتر اكسجين , ضمان ثلاثة سنوات"; ObjectID = "cEl-t0-2XL"; */
+"cEl-t0-2XL.text" = "مطفأة دي بي 500 لتر اكسجين , ضمان ثلاثة سنوات";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "duP-Vn-4LX"; */
+"duP-Vn-4LX.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "500 ر.س"; ObjectID = "lez-Qp-9Mv"; */
+"lez-Qp-9Mv.text" = "500 ر.س";

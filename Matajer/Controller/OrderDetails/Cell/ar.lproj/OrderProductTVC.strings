@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "مطفأة دي بي 500 لتر اكسجين , ضمان ثلاثة سنوات"; ObjectID = "K6j-Fw-b3Y"; */
+"K6j-Fw-b3Y.text" = "مطفأة دي بي 500 لتر اكسجين , ضمان ثلاثة سنوات";
+
+/* Class = "UILabel"; text = "500 ر.س"; ObjectID = "KYa-Ua-eNh"; */
+"KYa-Ua-eNh.text" = "500 ر.س";
+
+/* Class = "UILabel"; text = "أحذيـة"; ObjectID = "M3Q-ku-JIF"; */
+"M3Q-ku-JIF.text" = "أحذيـة";
+
+/* Class = "UIButton"; normalTitle = "اعادة الطلب"; ObjectID = "Wxu-5f-hOq"; */
+"Wxu-5f-hOq.normalTitle" = "اعادة الطلب";
+
+/* Class = "UIButton"; normalTitle = "إضافة تقييم"; ObjectID = "e3o-Ak-qB2"; */
+"e3o-Ak-qB2.normalTitle" = "إضافة تقييم";

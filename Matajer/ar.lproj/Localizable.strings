@@ -1,0 +1,286 @@
+
+/* Brand */
+"brand" = "الماركات";
+
+/* Completed */
+//"completed" = "المكتملة";
+
+
+"main" = "الرئيسية";
+
+/* Most Order */
+"most_order" = "الأكثر طلباَ";
+ 
+/* Offer */
+"offers" = "العروض";
+
+/* Recently arrived */
+"recently_arrived" = "وصل حديثاَ";
+
+
+ "news" = "جديد";
+
+
+
+
+
+
+
+
+"suggestion" = "المقترحة لك";
+
+
+ "no_products_in_favorites" = "لايوجد منتجات في المفضلة";
+"you_must_be_logged_in_to_view_products_in_favorites" = "يجب عليك تسجيل الدخول من اجل عرض المنتجات في المفضلة";
+
+
+"you_dont_have_whatsapp_app" = "ليس لديك تطبيق واتس اب";
+
+
+"smart_safety" = "متاجر";
+
+
+
+
+
+"you_must_enter_valid_email" = "يجب ادخال البريد بشكل صحيح";
+"you_must_enter_password" = "يجب ادخال كلمة المرور";
+
+"you_must_enter_first_name" = "يجب ادخال الاسم";
+"you_must_enter_last_name" = "يجب ادخال اسم العائلة";
+"you_must_enter_valid_mobile_number" = "يجب ادخال رقم الجوال بشكل صحيح";
+
+
+"about_smart_safety" = "عن متاجر";
+
+
+"delivary_address" = "عنــوان التوصيل";
+"are_you_sure_want_to_delete_your_address" = "هل تريد ازالة العنوان ؟";
+"cancel" = "الغاء";
+"delete" = "حذف";
+
+
+"cart" = "سلة الشراء";
+"payment_methods" = "طريقة الدفع";
+"shipment_methods" = " خيارات الشحن";
+
+
+
+"my_orders" = "طلبـاتي";
+"news" = "الجديدة";
+"current" = "الحالية";
+"completed" = "المكتملة";
+"rejected" = "المرفوضة";
+
+
+
+"do_you_want_to_add_all_products_in_your_cart" = "هل تريد اضافة جميع منتجات الطلب في سلة الشراء؟";
+"add_to_cart" = "اضافة الى السلة";
+"all_products_added_in_cart" = "تم اضافة جميع المنتجات في السلة";
+
+
+
+"order_details" = "تفاصيل الطلب";
+"do_you_want_to_add_the_product_to_cart" = "هل تريد اضافة المنتج  في سلة الشراء؟";
+"product_added_to_cart" = "تم اضافة المنتج في السلة";
+
+
+
+"rate_product" = "تقيم الطلب";
+
+
+"rate" = " تقييم";
+
+
+
+"product details" = "تفاصيل المنتج";
+"product reviews" = "تقييم المنتج";
+
+
+
+"banks_account" = "الحسابات البنكية";
+"bank_transfer_confirmation" = "تأكيد التحويل البنكي";
+"order_number_is" = "رقم الطلب هو:";
+"you_must_enter_bank_name" = "يجب عليك ادخال اسم البنك";
+"you_must_enter_place_holder_name" = "يجب ادخال اسم صاحب الحساب ";
+"you_must_enter_price" = "يجب ادخال السعر";
+"you_must_enter_date" = "يجب ادخال التاريخ";
+"you_must_attachment_file" = "يجب ارفاق الملف";
+
+
+"name" = "الاسم";
+"account_number" = "رقم الحساب";
+"iban" = "الايبان";
+
+"settings" = "الاعدادات ";
+
+"terms_and_conditions" = "الشروط والأحكام";
+
+
+
+"current_location" = "مكانك الحالي";
+
+
+
+"you_must_enter_office_name" = "يجب ادخال اسم عنوان الشحنة";
+"you_must_enter_city" = "يجب ادخال المدينة";
+"you_must_enter_address" = "يجب ادخال العنوان";
+
+
+
+"you_must_enter_full_name" = "ادخل الاسم كاملا";
+"you_must_enter_description" = "يجب ادخال تفاصيل الرسالة";
+
+
+
+"first_name" = "الاسم الأول";
+"full_name" = "الاسم كاملا";
+
+"last_name" = "اسم العائلة";
+"mobile_number" = "رقم الهاتف";
+"email" = "البريد الالكتروني";
+ 
+
+
+"you_must_enter_new_password" = "يجب ادخال كلمة المرور الجديدة";
+"password_mismatch" = "الباسورد متطابقة";
+
+
+
+
+"search_result" = "نتائج البحث";
+
+
+
+
+"product_category" = "تصنيف المنتج";
+"category" = "القســم";
+"trade_marks" = "المــاركة";
+"colors" = "اللون";
+"ratings" = "التقييم";
+
+
+
+"logout" = "تسجيل الخروج";
+"sign_out" = "هل تريد تسجيل الخروج ؟";
+"no" = "لا";
+"please_check_your_internet_connection" = "الرجاء تحقق من اتصالك بالانترنت";
+"connection_error" = "خطأ في الإتصال";
+"retry" = "اعادة المحاولة";
+"ok" = "موافق";
+
+
+
+"more" = "المزيد";
+
+
+
+
+"credit_cards" = "البطاقات الائتمانية";
+"bank_transfer" = "حوالات بنكية";
+"paiement_when_recieving" = "الدفع عند الاستلام";
+
+
+
+
+
+
+"male" = "ذكر";
+"female" = "انثى";
+
+
+
+/*OrderConfirmatonVC*/
+"you_must_select_address" = "يجب اختيار عنوان التوصيل";
+"you_must_select_shipping_methods" = "يجب اختيار طريقة الشحن";
+"you_must_seleect_payment_method" = "يجب اختيار طريقة الدفع";
+
+
+
+/*ContactUS*/
+"contact_us" = "اتصـل بنا";
+
+
+/*ProfileInformationTVC*/
+"user_profile" = "معلومات المستخدم";
+
+/*ShppingMethodConfirmation*/
+"day" = "يوم";
+
+
+
+/*OrderConfirmationVC*/
+
+"do_you_want_to_confirm_the_request" = "هل تريد اعتماد الطلب ؟";
+"later" = "لاحقا";
+"confirm" = "اعتماد الطلب";
+
+
+
+
+
+/*MyRatingVC*/
+"my_rating" = "تقييماتي";
+
+
+
+
+
+
+
+/*status of order*/
+"new" = "جديدة";
+"delivering" = "قيد التوصيل";
+"processing" = "قيد التجهيز";
+"completed" = "مكتملة";
+"rejected" = "مرفوضة";
+
+
+/*ProfileVC*/
+"member_since" = "عضو منذ";
+
+
+/*date*/
+"one_year_ago" = "سنه";
+"two_years_ago" = "سنتين";
+"year" = "سنوات";
+"years" = "سنة";
+ 
+"one_month_ago" = "شهر";
+"two_months_ago" = "شهرين";
+"month" = "شهور";
+"months" = "شهر";
+  
+"one_day_ago"="يوم";
+"two_days_ago"="يومان";
+"day"="يوم";
+"days"="ايام";
+"member_today"="هذا اليوم";
+
+
+"one_hour_ago" = "ساعة";
+"two_hours_ago" = "ساعتين";
+"hour" = "ساعة";
+"hours" = "ساعات";
+
+"one_minute_ago" = "دققيقة";
+"two_minutes_ago" = "دقيقتان";
+"minute" = "دقيقة";
+"minutes" = "دقائق";
+
+"moments_ago" = "لحظات";
+
+
+/*NotificationVC*/
+"notification" = "الاشعارات";
+
+
+
+/*ScuccessOrderVC*/
+"order_success_message" = "بامكانك الان متابعة حالة الطلب , من \n خلال رقم الطلب :";
+
+
+"change_address" = "تغيير العنوان";
+"add_address" = "اضافة عنوان جديد";
+"Final total tax incl" = "الإجمالي النهائي شامل ضريبة القيمة المضافة";
+"Final total" = "الإجمالي النهائي";

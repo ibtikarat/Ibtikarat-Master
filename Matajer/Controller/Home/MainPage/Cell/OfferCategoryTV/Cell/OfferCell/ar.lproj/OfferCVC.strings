@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "this is description of offer insde cell"; ObjectID = "BmO-fS-7IK"; */
+"BmO-fS-7IK.text" = "this is description of offer insde cell";
+
+/* Class = "UILabel"; text = "500 SAR"; ObjectID = "FFU-Kc-lKh"; */
+"FFU-Kc-lKh.text" = "500 SAR";
+
+/* Class = "UILabel"; text = "this is title "; ObjectID = "VuG-M5-0IZ"; */
+"VuG-M5-0IZ.text" = "this is title ";
+
+/* Class = "UILabel"; text = "Offer"; ObjectID = "XUN-c0-baB"; */
+"XUN-c0-baB.text" = "عرض";
+
+/* Class = "UIButton"; normalTitle = "اضف الى العربة"; ObjectID = "p24-jr-XQ4"; */
+"p24-jr-XQ4.normalTitle" = "اضف الى العربة";
