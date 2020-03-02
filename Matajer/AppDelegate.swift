@@ -25,6 +25,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate  {
     
     var openFromNotifications = (fromNotificaiton :false,NotificationTypes: NotificationTypes.other,modelName: "other",modelId :"0")
     
+    //BaytAlAroos 
     static let GOOGLE_MAP_API_KEY = "AIzaSyA_wumWncuQeIQMfQ1GNx6BB5v1CNFm3vI"
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
